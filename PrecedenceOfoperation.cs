@@ -1,3 +1,5 @@
+//Write an IntOperation program by taking a, b, and c as input values and print the following integer operations: a + b * c, a * b + c, c + a / b, and a % b + c. 
+
 using System; // Import System namespace
 
 namespace Assignment2{
