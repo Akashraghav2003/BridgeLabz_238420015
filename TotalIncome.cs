@@ -1,3 +1,5 @@
+//Create a program to find the total income of a person by taking salary and bonus from the user
+
 using System; // Import System namespace
 
 namespace Assignment2{
