@@ -14,7 +14,7 @@ namespace Assignment2{
 
             //  enter the second number from user
             Console.Write("Enter second number: ");
-            int number2 = Convert.ToInt64(Console.ReadLine()); // Convert input to integer
+            int number2 = Convert.ToInt32(Console.ReadLine()); // Convert input to integer
 
             // Swap numbers using a temporary variable
             int temp = number1;
