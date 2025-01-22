@@ -21,7 +21,7 @@ namespace Assignment2{
             double simpleInterest = (principal * rate * time) / 100;
 
             // Display the result
-            Console.WriteLine("The Simple Interest is " + simpleInterest +" for Principal " + principa+", Rate of Interest " + rate + "%, and Time " + time + " years.");
+            Console.WriteLine("The Simple Interest is " + simpleInterest +" for Principal " + principal+", Rate of Interest " + rate + "%, and Time " + time + " years.");
         }
     }
 }
