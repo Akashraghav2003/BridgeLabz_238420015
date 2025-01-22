@@ -1,3 +1,5 @@
+//write the DoubleOpt program by taking double values and doing the same operations.a + b * c, a * b + c, c + a / b, and a % b + c
+
 using System; // Import System namespace
 
 namespace Assignment2{
