@@ -1,3 +1,4 @@
+
 Date-19/01/2025
 solving the problen assignment which given on google classroom.
 All problem is based on the simple command and learning of syntex. it also help to know how to take input from user and orerations in C# language.
@@ -44,3 +45,6 @@ Date 30-01-2025
 
 raed theroy of string and done the new assignment of on all previous topic
 
+Date 31-01-2025
+
+learn about the  Date and time and basic concept of OOPs, alse done the Assignment based on these topic.
