@@ -48,3 +48,12 @@ raed theroy of string and done the new assignment of on all previous topic
 Date 31-01-2025
 
 learn about the  Date and time and basic concept of OOPs, alse done the Assignment based on these topic.
+
+Date 02-02-2025
+
+learn about basics of oops and done assignment on that. 
+
+Date 03-02-2025
+
+learn about the this, static, sealed, and such keyword. Done the assigmnent on basis of these keyword
+
