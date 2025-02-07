@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\ecommerceplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\ecommerceplatform\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\ecommerceplatform\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\ecommerceplatform\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\ecommerceplatform\\ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC74B779-A037-4757-B46A-E892BEE1E6BC}|EcommercePlatform.csproj|solutionrelative:ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ecommerce.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Ecommerce.cs",
+              "RelativeDocumentMoniker": "Ecommerce.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Ecommerce.cs",
+              "RelativeToolTip": "Ecommerce.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:07:46.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:07:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:07:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:06:54.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\EcommercePlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:06:26.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
