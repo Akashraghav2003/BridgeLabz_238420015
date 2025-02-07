@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\universitymanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\universitymanagment\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|solutionrelative:faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\universitymanagment\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|d:\\akash gla university\\capgemini problem\\feature05-02-2025\\universitymanagment\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECF883C-BBED-4104-B056-B17023658BA8}|UniversityMAnagment.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\University.cs",
+              "RelativeDocumentMoniker": "University.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\University.cs",
+              "RelativeToolTip": "University.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:44:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:44:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Faculty.cs",
+              "RelativeDocumentMoniker": "Faculty.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Faculty.cs",
+              "RelativeToolTip": "Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:43:56.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature05-02-2025\\UniversityMAnagment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:43:18.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
