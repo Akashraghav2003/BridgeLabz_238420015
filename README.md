@@ -57,3 +57,15 @@ Date 03-02-2025
 
 learn about the this, static, sealed, and such keyword. Done the assigmnent on basis of these keyword
 
+Date 04-02-2025
+
+learn about the object modeling and solve some question based on that
+
+Date 05-02-2025
+
+solve the assignment of object modeling
+
+Date 06-02-2025
+
+learn about the class diagram assosiation aggregation and composition
+
