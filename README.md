@@ -69,3 +69,10 @@ Date 06-02-2025
 
 learn about the class diagram assosiation aggregation and composition
 
+Date 07-02-2025
+
+read about the inheritance and type of inheritance 
+
+Date 08-02-2025
+solve the assignment based on the inheritance
+
