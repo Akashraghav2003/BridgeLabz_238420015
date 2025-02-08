@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\librarymanagmentwithbookandauthor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\librarymanagmentwithbookandauthor\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\librarymanagmentwithbookandauthor\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ED82A1-E4F5-417E-863A-7A459F3E7B70}|LibraryManagmentWithBookAndAuthor.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:24:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:24:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\LibraryManagmentWithBookAndAuthor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:23:47.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
