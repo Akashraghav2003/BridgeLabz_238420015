@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\onlineretailordermanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\onlineretailordermanagment\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\onlineretailordermanagment\\shippedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|solutionrelative:shippedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|d:\\akash gla university\\capgemini problem\\feature07-02-2025\\onlineretailordermanagment\\deliveredorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E34733-5D2C-4820-8280-6F819E3A769B}|OnlineRetailOrderManagment.csproj|solutionrelative:deliveredorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveredOrder.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\DeliveredOrder.cs",
+              "RelativeDocumentMoniker": "DeliveredOrder.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\DeliveredOrder.cs",
+              "RelativeToolTip": "DeliveredOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:57:06.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippedOrder.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\ShippedOrder.cs",
+              "RelativeDocumentMoniker": "ShippedOrder.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\ShippedOrder.cs",
+              "RelativeToolTip": "ShippedOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:56:27.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:55:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature07-02-2025\\OnlineRetailOrderManagment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:54:24.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
