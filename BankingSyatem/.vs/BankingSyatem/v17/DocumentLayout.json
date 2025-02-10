@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|d:\\akash gla university\\capgemini problem\\feature10-02-2025\\bankingsyatem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|d:\\akash gla university\\capgemini problem\\feature10-02-2025\\bankingsyatem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|d:\\akash gla university\\capgemini problem\\feature10-02-2025\\bankingsyatem\\ilonable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|solutionrelative:ilonable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|d:\\akash gla university\\capgemini problem\\feature10-02-2025\\bankingsyatem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|solutionrelative:savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|d:\\akash gla university\\capgemini problem\\feature10-02-2025\\bankingsyatem\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3313877C-C831-420B-9CA7-8E9299C36B5F}|BankingSyatem.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:01:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SavingAccount.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\SavingAccount.cs",
+              "RelativeToolTip": "SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:01:04.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILonable.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\ILonable.cs",
+              "RelativeDocumentMoniker": "ILonable.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\ILonable.cs",
+              "RelativeToolTip": "ILonable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:00:46.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:00:05.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature10-02-2025\\BankingSyatem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:59:27.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
