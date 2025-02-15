@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\CountSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B63F4A-1FC7-48AF-9056-8921545FC70B}|CountSort.csproj|d:\\akash gla university\\capgemini problem\\feature14-02-2025\\countsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B63F4A-1FC7-48AF-9056-8921545FC70B}|CountSort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B63F4A-1FC7-48AF-9056-8921545FC70B}|CountSort.csproj|d:\\akash gla university\\capgemini problem\\feature14-02-2025\\countsort\\countingsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B63F4A-1FC7-48AF-9056-8921545FC70B}|CountSort.csproj|solutionrelative:countingsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountingSort.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\CountSort\\CountingSort.cs",
+              "RelativeDocumentMoniker": "CountingSort.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\CountSort\\CountingSort.cs",
+              "RelativeToolTip": "CountingSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:31:10.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\CountSort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\CountSort\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:30:57.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
