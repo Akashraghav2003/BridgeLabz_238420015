@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCDF8ED-169F-4506-9310-C823A571EC3C}|QuickSort.csproj|d:\\akash gla university\\capgemini problem\\feature14-02-2025\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCDF8ED-169F-4506-9310-C823A571EC3C}|QuickSort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCDF8ED-169F-4506-9310-C823A571EC3C}|QuickSort.csproj|d:\\akash gla university\\capgemini problem\\feature14-02-2025\\quicksort\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCDF8ED-169F-4506-9310-C823A571EC3C}|QuickSort.csproj|solutionrelative:quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quick.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\QuickSort\\Quick.cs",
+              "RelativeDocumentMoniker": "Quick.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\QuickSort\\Quick.cs",
+              "RelativeToolTip": "Quick.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:46:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature14-02-2025\\QuickSort\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:46:27.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
