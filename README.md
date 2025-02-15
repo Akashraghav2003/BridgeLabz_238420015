@@ -83,3 +83,24 @@ read about the inheritance, polymorphism, abstract class and more
 Date 10-02-2025
 
 complete the assignment based on the above topics.
+
+Date 11-02-2025
+
+read about the Linked List, special Singly Linked list and Doing assignment on that
+
+Date 12-02-2025
+
+Doing assignment based on the doubly and circular linked list.
+
+Date 13-02-2025
+
+read about the stack queue using linked list and doing assignment
+
+Date 14-02-2025
+
+read about the sorting and complete the Assignment based on the sorting 
+
+Date 15-02-2025
+
+Learn about the String buffer String Builder and Input file and more. Also Complete the assignment based on these topic
+
