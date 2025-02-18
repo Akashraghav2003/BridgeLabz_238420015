@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|d:\\myc#\\18-02-2025\\ai-driven resume screening system\\softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|solutionrelative:softwareengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|d:\\myc#\\18-02-2025\\ai-driven resume screening system\\datascientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|solutionrelative:datascientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|d:\\myc#\\18-02-2025\\ai-driven resume screening system\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|solutionrelative:resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|d:\\myc#\\18-02-2025\\ai-driven resume screening system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|d:\\myc#\\18-02-2025\\ai-driven resume screening system\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEECC9-7367-47D2-9E62-19AB5D0BE991}|AI-Driven Resume Screening System.csproj|solutionrelative:jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Resume.cs",
+              "RelativeDocumentMoniker": "Resume.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Resume.cs",
+              "RelativeToolTip": "Resume.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:34:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Datascientist.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Datascientist.cs",
+              "RelativeDocumentMoniker": "Datascientist.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Datascientist.cs",
+              "RelativeToolTip": "Datascientist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:29:06.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftwareEngineer.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\SoftwareEngineer.cs",
+              "RelativeDocumentMoniker": "SoftwareEngineer.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\SoftwareEngineer.cs",
+              "RelativeToolTip": "SoftwareEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:27:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobRole.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\JobRole.cs",
+              "RelativeDocumentMoniker": "JobRole.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\JobRole.cs",
+              "RelativeToolTip": "JobRole.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:26:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\AI-Driven Resume Screening System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:22:59.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
