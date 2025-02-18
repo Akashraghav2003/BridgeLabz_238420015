@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\highproteinmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:highproteinmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\ketomeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:ketomeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\veganmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:veganmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\vegetarianmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:vegetarianmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\imealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:imealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|d:\\myc#\\18-02-2025\\personalized meal plan generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B687E-0237-4439-946C-F7C7BB1DFF43}|Personalized Meal Plan Generator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\Meal.cs",
+              "RelativeDocumentMoniker": "Meal.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\Meal.cs*",
+              "RelativeToolTip": "Meal.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:30:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighProteinMeal.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\HighProteinMeal.cs",
+              "RelativeDocumentMoniker": "HighProteinMeal.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\HighProteinMeal.cs",
+              "RelativeToolTip": "HighProteinMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:29:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KetoMeal.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\KetoMeal.cs",
+              "RelativeDocumentMoniker": "KetoMeal.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\KetoMeal.cs",
+              "RelativeToolTip": "KetoMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:28:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeganMeal.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\VeganMeal.cs",
+              "RelativeDocumentMoniker": "VeganMeal.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\VeganMeal.cs",
+              "RelativeToolTip": "VeganMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:09:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VegetarianMeal.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\VegetarianMeal.cs",
+              "RelativeDocumentMoniker": "VegetarianMeal.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\VegetarianMeal.cs",
+              "RelativeToolTip": "VegetarianMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:48:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMealPlan.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\IMealPlan.cs",
+              "RelativeDocumentMoniker": "IMealPlan.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\IMealPlan.cs",
+              "RelativeToolTip": "IMealPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:44:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyC#\\18-02-2025\\Personalized Meal Plan Generator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:43:03.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
