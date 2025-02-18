@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|d:\\akash gla university\\capgemini problem\\feature18-02-2025\\dynamic online marketplace\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|solutionrelative:marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|d:\\akash gla university\\capgemini problem\\feature18-02-2025\\dynamic online marketplace\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|d:\\akash gla university\\capgemini problem\\feature18-02-2025\\dynamic online marketplace\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|solutionrelative:productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|d:\\akash gla university\\capgemini problem\\feature18-02-2025\\dynamic online marketplace\\discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|solutionrelative:discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|d:\\akash gla university\\capgemini problem\\feature18-02-2025\\dynamic online marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA090875-E63B-44CF-A970-344ABD38AA40}|Dynamic Online Marketplace.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscountManager.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\DiscountManager.cs",
+              "RelativeDocumentMoniker": "DiscountManager.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\DiscountManager.cs",
+              "RelativeToolTip": "DiscountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:07:13.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCatalog.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\ProductCatalog.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\ProductCatalog.cs",
+              "RelativeToolTip": "ProductCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:50:34.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:47:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:43:31.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Marketplace.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Marketplace.cs",
+              "RelativeDocumentMoniker": "Marketplace.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature18-02-2025\\Dynamic Online Marketplace\\Marketplace.cs",
+              "RelativeToolTip": "Marketplace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:50:08.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

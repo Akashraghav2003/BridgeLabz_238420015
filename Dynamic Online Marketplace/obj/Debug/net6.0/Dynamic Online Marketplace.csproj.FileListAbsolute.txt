@@ -1,0 +1,14 @@
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.AssemblyInfoInputs.cache
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.AssemblyInfo.cs
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.csproj.CoreCompileInputs.cache
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\bin\Debug\net6.0\Dynamic Online Marketplace.exe
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\bin\Debug\net6.0\Dynamic Online Marketplace.deps.json
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\bin\Debug\net6.0\Dynamic Online Marketplace.runtimeconfig.json
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\bin\Debug\net6.0\Dynamic Online Marketplace.dll
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\bin\Debug\net6.0\Dynamic Online Marketplace.pdb
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.dll
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\refint\Dynamic Online Marketplace.dll
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.pdb
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\Dynamic Online Marketplace.genruntimeconfig.cache
+D:\MyC#\18-02-2025\Dynamic Online Marketplace\obj\Debug\net6.0\ref\Dynamic Online Marketplace.dll
