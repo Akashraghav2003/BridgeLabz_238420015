@@ -104,3 +104,11 @@ Date 15-02-2025
 
 Learn about the String buffer String Builder and Input file and more. Also Complete the assignment based on these topic
 
+Date 16-02-2025
+
+Learn about the linear Search and binary Serarch and complete the assignment based on these topics
+
+Date  17-02-2025
+
+Learn about the generic
+
