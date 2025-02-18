@@ -112,3 +112,6 @@ Date  17-02-2025
 
 Learn about the generic
 
+Date 18-02-2025
+Complete the assignment based on Generic class
+
