@@ -115,3 +115,7 @@ Learn about the generic
 Date 18-02-2025
 Complete the assignment based on Generic class
 
+Date 19-02-2025
+
+Read about the collection and Complete the assignment based on it
+
