@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\hospitaltriagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\hospitaltriagesystem\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\hospitaltriagesystem\\hospitaltriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EDFA94-C4CD-472D-B968-23FA9A8E4B72}|HospitalTriageSystem.csproj|solutionrelative:hospitaltriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalTriage.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\HospitalTriage.cs",
+              "RelativeDocumentMoniker": "HospitalTriage.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\HospitalTriage.cs",
+              "RelativeToolTip": "HospitalTriage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:36:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:35:55.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\HospitalTriageSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:32:23.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
