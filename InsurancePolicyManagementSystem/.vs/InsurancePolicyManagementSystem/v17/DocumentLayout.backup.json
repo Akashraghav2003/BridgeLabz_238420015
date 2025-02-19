@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\insurancepolicymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\insurancepolicymanagementsystem\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|solutionrelative:policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|d:\\akash gla university\\capgemini problem\\feature19-02-2025\\insurancepolicymanagementsystem\\policymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C2F3C4-2353-48EC-98DE-E41611E293CF}|InsurancePolicyManagementSystem.csproj|solutionrelative:policymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyManagementSystem.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\PolicyManagementSystem.cs",
+              "RelativeDocumentMoniker": "PolicyManagementSystem.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\PolicyManagementSystem.cs",
+              "RelativeToolTip": "PolicyManagementSystem.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA7wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:57:32.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\Policy.cs",
+              "RelativeDocumentMoniker": "Policy.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\Policy.cs",
+              "RelativeToolTip": "Policy.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:56:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature19-02-2025\\InsurancePolicyManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:51:23.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
