@@ -1,0 +1,14 @@
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\bin\Debug\net6.0\Shopping Cart.exe
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\bin\Debug\net6.0\Shopping Cart.deps.json
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\bin\Debug\net6.0\Shopping Cart.runtimeconfig.json
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\bin\Debug\net6.0\Shopping Cart.dll
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\bin\Debug\net6.0\Shopping Cart.pdb
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.GeneratedMSBuildEditorConfig.editorconfig
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.AssemblyInfoInputs.cache
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.AssemblyInfo.cs
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.csproj.CoreCompileInputs.cache
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.dll
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\refint\Shopping Cart.dll
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.pdb
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\Shopping Cart.genruntimeconfig.cache
+D:\akash gla university\capgemini problem\feature19-02-2025\Shopping Cart\obj\Debug\net6.0\ref\Shopping Cart.dll
