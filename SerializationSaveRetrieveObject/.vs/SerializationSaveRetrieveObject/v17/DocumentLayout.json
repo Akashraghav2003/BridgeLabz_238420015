@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature20-02-2025\\SerializationSaveRetrieveObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FBD85C-749C-4AC0-BF85-026948E7FB74}|SerializationSaveRetrieveObject.csproj|d:\\akash gla university\\capgemini problem\\feature20-02-2025\\serializationsaveretrieveobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FBD85C-749C-4AC0-BF85-026948E7FB74}|SerializationSaveRetrieveObject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FBD85C-749C-4AC0-BF85-026948E7FB74}|SerializationSaveRetrieveObject.csproj|d:\\akash gla university\\capgemini problem\\feature20-02-2025\\serializationsaveretrieveobject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FBD85C-749C-4AC0-BF85-026948E7FB74}|SerializationSaveRetrieveObject.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature20-02-2025\\SerializationSaveRetrieveObject\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature20-02-2025\\SerializationSaveRetrieveObject\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:48:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature20-02-2025\\SerializationSaveRetrieveObject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature20-02-2025\\SerializationSaveRetrieveObject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:44:58.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
