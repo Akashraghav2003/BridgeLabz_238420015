@@ -119,3 +119,7 @@ Date 19-02-2025
 
 Read about the collection and Complete the assignment based on it
 
+Date 20-02-2025
+
+Read about the file stream, buffer stream and complete the assignment given based on these topics.
+
