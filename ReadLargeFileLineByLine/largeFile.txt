@@ -1,0 +1,419 @@
+geeksforgeeks
+
+.NET Framework
+C# Data Types
+C# Keywords
+C# Decision Making
+C# Methods
+C# Delegates
+C# Constructors
+C# Arrays
+C# ArrayList
+C# String
+C# Tuple
+C# Indexers
+C# Interface
+C# Multithreading
+C# Exception
+Basics of File Handling in C#
+Last Updated : 09 Sep, 2019
+Generally, the file is used to store the data. The term File Handling refers to the various operations like creating the file, reading from the file, writing to the file, appending the file, etc. There are two basic operation which is mostly used in file handling is reading and writing of the file. The file becomes stream when we open the file for writing and reading. A stream is a sequence of bytes which is used for communication. Two stream can be formed from file one is input stream which is used to read the file and another is output stream is used to write in the file. In C#, System.IO namespace contains classes which handle input and output streams and provide information about file and directory structure.
+
+
+File-Handling-Class-Hierarchy
+
+Here we are going to discuss about two classes which are useful for writing in and reading from the text file.
+
+StreamWriter Class
+The StreamWriter class implements TextWriter for writing character to stream in a particular format. The class contains the following method which are mostly used.
+
+Method	Description
+Close()	Closes the current StreamWriter object and stream associate with it.
+Flush()	Clears all the data from the buffer and write it in the stream associate with it.
+Write()	Write data to the stream. It has different overloads for different data types to write in stream.
+WriteLine()	It is same as Write() but it adds the newline character at the end of the data.
+Example:
+
+// C# program to write user input  
+// to a file using StreamWriter Class 
+using System; 
+using System.IO; 
+  
+namespace GeeksforGeeks { 
+      
+class GFG { 
+      
+    class WriteToFile { 
+          
+        public void Data() 
+        { 
+            // This will create a file named sample.txt 
+            // at the specified location  
+            StreamWriter sw = new StreamWriter("H://geeksforgeeks.txt"); 
+              
+            // To write on the console screen 
+            Console.WriteLine("Enter the Text that you want to write on File");  
+              
+            // To read the input from the user 
+            string str = Console.ReadLine();  
+              
+            // To write a line in buffer 
+            sw.WriteLine(str);  
+              
+            // To write in output stream 
+            sw.Flush();  
+              
+            // To close the stream 
+            sw.Close();  
+        } 
+    } 
+      
+    // Main Method 
+    static void Main(string[] args) 
+    { 
+        WriteToFile wr = new WriteToFile(); 
+        wr.Data(); 
+        Console.ReadKey(); 
+    } 
+} 
+} 
+Input:
+
+
+
+Output: You will find the file at the specified location having the content:
+
+
+
+StreamReader Class
+The StreamReader class implements TextReader for reading character from the stream in a particular format. The class contains the following method which are mostly used.
+
+Method	Description
+Close()	Closes the current StreamReader object and stream associate with it.
+Peek()	Returns the next available character but does not consume it.
+Read()	Reads the next character in input stream and increment characters position by one in the stream
+ReadLine()	Reads a line from the input stream and return the data in form of string
+Seek()	It is use to read/write at the specific location from a file
+Example:
+
+// C# program to read from a file 
+// using StreamReader Class 
+using System; 
+using System.IO; 
+  
+namespace GeeksforGeeks { 
+      
+class GFG { 
+      
+    class ReadFile { 
+          
+        public void DataReading() 
+        { 
+            // Takinga a new input stream i.e.  
+            // geeksforgeeks.txt and opens it 
+            StreamReader sr = new StreamReader("H://geeksforgeeks.txt"); 
+              
+            Console.WriteLine("Content of the File");  
+              
+            // This is use to specify from where  
+            // to start reading input stream 
+            sr.BaseStream.Seek(0, SeekOrigin.Begin); 
+              
+            // To read line from input stream 
+            string str = sr.ReadLine();  
+              
+            // To read the whole file line by line 
+            while (str != null)  
+            { 
+                Console.WriteLine(str); 
+                str = sr.ReadLine(); 
+            } 
+            Console.ReadLine();  
+              
+            // to close the stream 
+            sr.Close();  
+        } 
+    } 
+      
+    // Main Method 
+    static void Main(string[] args) 
+    { 
+        ReadFile wr = new ReadFile(); 
+        wr.DataReading(); 
+    } 
+} 
+} 
+Output:
+
+
+
+
+Get 90% Course fee refund on completing 90% course in 90 days! Take the Three 90 Challenge today.
+
+The next 90 Days of focus & determination can unlock your full potential. The Three 90 challenge has started and this is your chance to upskill and get 90% refund. What more motivation do you need? Start the challenge right away!
+
+
+
+Comment
+
+More info
+
+Placement Training Program
+Next Article 
+Basics of FileStream in C#
+Similar Reads
+Basics Operations of File and Directory in C#
+In this article, we are going to cover how to create, delete and rename directory and also how to delete and rename the file. Creating a Directory We can create Directory using CreateDirectory() method present in the Directory class. C/C++ Code // C# program to create a directory using System; using System.IO; class Program { // Main Method static
+4 min read
+C | File Handling | Question 1
+Which of the following true about FILE *fp (A) FILE is a keyword in C for representing files and fp is a variable of FILE type. (B) FILE is a structure and fp is a pointer to the structure of FILE type (C) FILE is a stream (D) FILE is a buffered stream Answer: (B) Explanation: fp is a pointer of FILE type and FILE is a structure that store followin
+1 min read
+C | File Handling | Question 2
+When fopen() is not able to open a file, it returns (A) EOF (B) NULL (C) Runtime Error (D) Compiler Dependent Answer: (B) Explanation: fopen() returns NULL if it is not able to open the given file due to any of the reasons like file not present, inappropriate permissions, etc.Quiz of this Question
+1 min read
+C | File Handling | Question 3
+getc() returns EOF when (A) End of files is reached (B) When getc() fails to read a character (C) Both of the above (D) None of the above Answer: (C) Explanation: See EOF, getc() and feof() in CQuiz of this Question
+1 min read
+C | File Handling | Question 4
+In fopen(), the open mode "wx" is sometimes preferred "w" because. 1) Use of wx is more efficient. 2) If w is used, old contents of file are erased and a new empty file is created. When wx is used, fopen() returns NULL if file already exists. (A) Only 1 (B) Only 2 (C) Both 1 and 2 (D) Neither 1 nor 2 Answer: (B) Explanation: See https://www.geeksfo
+1 min read
+C | File Handling | Question 5
+fseek() should be preferred over rewind() mainly because (A) rewind() doesn't work for empty files (B) rewind() may fail for large files (C) In rewind, there is no way to check if the operations completed successfully (D) All of the above Answer: (C) Explanation: Please see fseek() vs rewind() in CQuiz of this Question
+1 min read
+Bank account system in C using File handling
+This article focuses on how to create a bank account system using C language and File handling in C. Approach:Let's discuss the approach in detail, covering all the functions and their explanation in detail- Create a Menu in the main function and create different functions for the Menu, which will be called using switch case statements. There are f
+12 min read
+Basics of FileStream in C#
+The FileStream is a class used for reading and writing files in C#. It is part of the System.IO namespace. To manipulate files using FileStream, you need to create an object of FileStream class. This object has four parameters; the Name of the File, FileMode, FileAccess, and FileShare. The Syntax to declare a FileStream object is given as FileStrea
+4 min read
+C# Program to Get File Time Using File Class
+Given a file, now our task is to get the file time using the File class. So we use the GetCreationTime() method of the File class. This method is used to find the creation date and time of the given file or directory. This method will only take one parameter that is the path of the file and if this path parameter does not exist, then it will return
+2 min read
+Exception Handling in C#
+An exception is defined as an event that occurs during the execution of a program that is unexpected by the program code. The actions to be performed in case of occurrence of an exception is not known to the program. In such a case, we create an exception object and call the exception handler code. The execution of an exception handler so that the
+6 min read
+course-img
+78k+ interested Geeks
+DSA for Interview Preparation
+Avail 90% Refund
+course-img
+27k+ interested Geeks
+Complete Backend Development Program- Mastering OOPS, Spring Boot, and Microservices
+Avail 90% Refund
+course-img
+157k+ interested Geeks
+C Programming Course Online - Learn C with Data Structures
+Avail 90% Refund
+course-img
+222k+ interested Geeks
+C++ Programming Course Online - Complete Beginner to Advanced
+Avail 90% Refund
+course-img
+14k+ interested Geeks
+CBSE Class 12 Computer Science
+Avail 90% Refund
+geeksforgeeks-footer-logo
+Corporate & Communications Address:
+A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)
+Registered Address:
+K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305
+GFG App on Play Store
+GFG App on App Store
+Advertise with us
+Company
+About Us
+Legal
+Privacy Policy
+Careers
+In Media
+Contact Us
+GFG Corporate Solution
+Placement Training Program
+Explore
+Job-A-Thon Hiring Challenge
+Hack-A-Thon
+GfG Weekly Contest
+Offline Classes (Delhi/NCR)
+DSA in JAVA/C++
+Master System Design
+Master CP
+GeeksforGeeks Videos
+Geeks Community
+Languages
+Python
+Java
+C++
+PHP
+GoLang
+SQL
+R Language
+Android Tutorial
+DSA
+Data Structures
+Algorithms
+DSA for Beginners
+Basic DSA Problems
+DSA Roadmap
+DSA Interview Questions
+Competitive Programming
+Data Science & ML
+Data Science With Python
+Data Science For Beginner
+Machine Learning
+ML Maths
+Data Visualisation
+Pandas
+NumPy
+NLP
+Deep Learning
+Web Technologies
+HTML
+CSS
+JavaScript
+TypeScript
+ReactJS
+NextJS
+NodeJs
+Bootstrap
+Tailwind CSS
+Python Tutorial
+Python Programming Examples
+Django Tutorial
+Python Projects
+Python Tkinter
+Web Scraping
+OpenCV Tutorial
+Python Interview Question
+Computer Science
+GATE CS Notes
+Operating Systems
+Computer Network
+Database Management System
+Software Engineering
+Digital Logic Design
+Engineering Maths
+DevOps
+Git
+AWS
+Docker
+Kubernetes
+Azure
+GCP
+DevOps Roadmap
+System Design
+High Level Design
+Low Level Design
+UML Diagrams
+Interview Guide
+Design Patterns
+OOAD
+System Design Bootcamp
+Interview Questions
+School Subjects
+Mathematics
+Physics
+Chemistry
+Biology
+Social Science
+English Grammar
+Commerce
+Accountancy
+Business Studies
+Economics
+Management
+HR Management
+Finance
+Income Tax
+Databases
+SQL
+MYSQL
+PostgreSQL
+PL/SQL
+MongoDB
+Preparation Corner
+Company-Wise Recruitment Process
+Resume Templates
+Aptitude Preparation
+Puzzles
+Company-Wise Preparation
+Companies
+Colleges
+Competitive Exams
+JEE Advanced
+UGC NET
+UPSC
+SSC CGL
+SBI PO
+SBI Clerk
+IBPS PO
+IBPS Clerk
+More Tutorials
+Software Development
+Software Testing
+Product Management
+Project Management
+Linux
+Excel
+All Cheat Sheets
+Recent Articles
+Free Online Tools
+Typing Test
+Image Editor
+Code Formatters
+Code Converters
+Currency Converter
+Random Number Generator
+Random Password Generator
+Write & Earn
+Write an Article
+Improve an Article
+Pick Topics to Write
+Share your Experiences
+Internships
+DSA/Placements
+DSA - Self Paced Course
+DSA in JavaScript - Self Paced Course
+DSA in Python - Self Paced
+C Programming Course Online - Learn C with Data Structures
+Complete Interview Preparation
+Master Competitive Programming
+Core CS Subject for Interview Preparation
+Mastering System Design: LLD to HLD
+Tech Interview 101 - From DSA to System Design [LIVE]
+DSA to Development [HYBRID]
+Placement Preparation Crash Course [LIVE]
+Development/Testing
+JavaScript Full Course
+React JS Course
+React Native Course
+Django Web Development Course
+Complete Bootstrap Course
+Full Stack Development - [LIVE]
+JAVA Backend Development - [LIVE]
+Complete Software Testing Course [LIVE]
+Android Mastery with Kotlin [LIVE]
+Machine Learning/Data Science
+Complete Machine Learning & Data Science Program - [LIVE]
+Data Analytics Training using Excel, SQL, Python & PowerBI - [LIVE]
+Data Science Training Program - [LIVE]
+Mastering Generative AI and ChatGPT
+Data Science Course with IBM Certification
+Programming Languages
+C Programming with Data Structures
+C++ Programming Course
+Java Programming Course
+Python Full Course
+Clouds/Devops
+DevOps Engineering
+AWS Solutions Architect Certification
+Salesforce Certified Administrator Course
+GATE
+GATE CS & IT Test Series - 2025
+GATE DA Test Series 2025
+GATE CS & IT Course - 2025
+GATE DA Course 2025
+GATE Rank Predictor
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our Cookie Policy & Privacy Policy
+Got It !
+Lightbox
