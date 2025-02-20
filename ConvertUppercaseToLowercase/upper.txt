@@ -1,0 +1,3 @@
+Filter Streams - Convert Uppercase to Lowercase
+Problem Statement: Create a program that reads a text file and writes its contents into another file, converting all uppercase letters to lowercase. 
+Requirements: Use StreamReader and StreamWriter. Use BufferedStream for efficiency. Handle character encoding issues.
