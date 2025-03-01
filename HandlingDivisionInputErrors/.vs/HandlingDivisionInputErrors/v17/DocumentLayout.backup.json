@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature21-02-2025\\HandlingDivisionInputErrors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{506BF7D3-991E-478F-AF06-8B28229036F5}|HandlingDivisionInputErrors.csproj|d:\\akash gla university\\capgemini problem\\feature21-02-2025\\handlingdivisioninputerrors\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506BF7D3-991E-478F-AF06-8B28229036F5}|HandlingDivisionInputErrors.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506BF7D3-991E-478F-AF06-8B28229036F5}|HandlingDivisionInputErrors.csproj|d:\\akash gla university\\capgemini problem\\feature21-02-2025\\handlingdivisioninputerrors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506BF7D3-991E-478F-AF06-8B28229036F5}|HandlingDivisionInputErrors.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Division.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature21-02-2025\\HandlingDivisionInputErrors\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature21-02-2025\\HandlingDivisionInputErrors\\Division.cs",
+              "RelativeToolTip": "Division.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:26:42.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature21-02-2025\\HandlingDivisionInputErrors\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature21-02-2025\\HandlingDivisionInputErrors\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:22:50.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
