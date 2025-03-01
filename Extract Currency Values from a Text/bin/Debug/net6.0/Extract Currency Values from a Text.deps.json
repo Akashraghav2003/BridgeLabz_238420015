@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Extract Currency Values from a Text/1.0.0": {
+        "runtime": {
+          "Extract Currency Values from a Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extract Currency Values from a Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

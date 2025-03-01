@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\bin\Debug\net6.0\Extract Currency Values from a Text.exe
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\bin\Debug\net6.0\Extract Currency Values from a Text.deps.json
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\bin\Debug\net6.0\Extract Currency Values from a Text.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\bin\Debug\net6.0\Extract Currency Values from a Text.dll
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\bin\Debug\net6.0\Extract Currency Values from a Text.pdb
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.dll
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\refint\Extract Currency Values from a Text.dll
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.pdb
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\Extract Currency Values from a Text.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Extract Currency Values from a Text\obj\Debug\net6.0\ref\Extract Currency Values from a Text.dll
