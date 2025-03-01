@@ -123,3 +123,21 @@ Date 20-02-2025
 
 Read about the file stream, buffer stream and complete the assignment given based on these topics.
 
+Date 21-02-2025
+
+Read about the Exception Handling and complete the assignment based on that.
+
+Date 22-02-2025
+
+Read about the Nunit and about the creation of test cases. Complete the assignment of based on that.
+
+Date 23-02-2025
+
+Read about the Regax and for the practice, Complete the assignment.
+
+Date 25-02-2025
+
+Read about the CSv rader. How we read the CSV, how we writ ethe CSV and More Function.
+
+
+
