@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOperations", "ListOperations.csproj", "{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOperationTest", "..\ListOperationTest\ListOperationTest.csproj", "{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

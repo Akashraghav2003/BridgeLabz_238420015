@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8AA414-54DA-4C41-B1E9-166C121E6FE7}|..\\ListOperationTest\\ListOperationTest.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\listoperationtest\\listmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}|ListOperations.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\listoperations\\listmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}|ListOperations.csproj|solutionrelative:listmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}|ListOperations.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE8AA88-CF5C-438A-AD20-9140E6DD2FA8}|ListOperations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListManagerTest.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperationTest\\ListManagerTest.cs",
+              "RelativeDocumentMoniker": "..\\ListOperationTest\\ListManagerTest.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperationTest\\ListManagerTest.cs",
+              "RelativeToolTip": "..\\ListOperationTest\\ListManagerTest.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwE0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:16:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListManager.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperations\\ListManager.cs",
+              "RelativeDocumentMoniker": "ListManager.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperations\\ListManager.cs",
+              "RelativeToolTip": "ListManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:04:02.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\ListOperations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:03:35.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
