@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Validate a Hex Color Code/1.0.0": {
+        "runtime": {
+          "Validate a Hex Color Code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validate a Hex Color Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

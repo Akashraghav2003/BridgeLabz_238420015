@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\bin\Debug\net6.0\Validate a Hex Color Code.exe
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\bin\Debug\net6.0\Validate a Hex Color Code.deps.json
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\bin\Debug\net6.0\Validate a Hex Color Code.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\bin\Debug\net6.0\Validate a Hex Color Code.dll
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\bin\Debug\net6.0\Validate a Hex Color Code.pdb
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.dll
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\refint\Validate a Hex Color Code.dll
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.pdb
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\Validate a Hex Color Code.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Validate a Hex Color Code\obj\Debug\net6.0\ref\Validate a Hex Color Code.dll
