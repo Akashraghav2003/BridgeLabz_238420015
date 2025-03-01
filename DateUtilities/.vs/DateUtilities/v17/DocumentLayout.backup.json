@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8628637B-A878-4D32-8CF3-83131425CEC0}|..\\DateUtilitiesTest\\DateUtilitiesTest.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\dateutilitiestest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4A3FD4-7C6D-4428-B2A3-7A3AA63E8731}|DateUtilities.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\dateutilities\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4A3FD4-7C6D-4428-B2A3-7A3AA63E8731}|DateUtilities.csproj|solutionrelative:dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4A3FD4-7C6D-4428-B2A3-7A3AA63E8731}|DateUtilities.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\dateutilities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4A3FD4-7C6D-4428-B2A3-7A3AA63E8731}|DateUtilities.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateFormatter.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilities\\DateFormatter.cs",
+              "RelativeDocumentMoniker": "DateFormatter.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilities\\DateFormatter.cs",
+              "RelativeToolTip": "DateFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:27:59.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilitiesTest\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DateUtilitiesTest\\Class1.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilitiesTest\\Class1.cs",
+              "RelativeToolTip": "..\\DateUtilitiesTest\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:24:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilities\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\DateUtilities\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:23:51.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
