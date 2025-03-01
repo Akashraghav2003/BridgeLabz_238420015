@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\bin\Debug\net6.0\Find Repeating Words in a Sentence.exe
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\bin\Debug\net6.0\Find Repeating Words in a Sentence.deps.json
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\bin\Debug\net6.0\Find Repeating Words in a Sentence.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\bin\Debug\net6.0\Find Repeating Words in a Sentence.dll
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\bin\Debug\net6.0\Find Repeating Words in a Sentence.pdb
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.dll
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\refint\Find Repeating Words in a Sentence.dll
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.pdb
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\Find Repeating Words in a Sentence.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Find Repeating Words in a Sentence\obj\Debug\net6.0\ref\Find Repeating Words in a Sentence.dll
