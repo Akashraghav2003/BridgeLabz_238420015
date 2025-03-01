@@ -1,0 +1,14 @@
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\bin\Debug\net6.0\Implementing a Bank Transaction System.exe
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\bin\Debug\net6.0\Implementing a Bank Transaction System.deps.json
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\bin\Debug\net6.0\Implementing a Bank Transaction System.runtimeconfig.json
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\bin\Debug\net6.0\Implementing a Bank Transaction System.dll
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\bin\Debug\net6.0\Implementing a Bank Transaction System.pdb
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.AssemblyInfoInputs.cache
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.AssemblyInfo.cs
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.csproj.CoreCompileInputs.cache
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.dll
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\refint\Implementing a Bank Transaction System.dll
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.pdb
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\Implementing a Bank Transaction System.genruntimeconfig.cache
+D:\MyC#\21-02-2025\Implementing a Bank Transaction System\obj\Debug\net6.0\ref\Implementing a Bank Transaction System.dll

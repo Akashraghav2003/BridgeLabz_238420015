@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Implementing a Bank Transaction System/1.0.0": {
+        "runtime": {
+          "Implementing a Bank Transaction System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implementing a Bank Transaction System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
