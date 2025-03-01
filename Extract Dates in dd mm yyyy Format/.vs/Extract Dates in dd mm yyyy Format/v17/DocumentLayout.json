@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyC#\\22-02-2025\\Regex\\Extract Dates in dd mm yyyy Format\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461066CA-38A6-408C-9225-00F153C1D44D}|Extract Dates in dd mm yyyy Format.csproj|d:\\myc#\\22-02-2025\\regex\\extract dates in dd mm yyyy format\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461066CA-38A6-408C-9225-00F153C1D44D}|Extract Dates in dd mm yyyy Format.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyC#\\22-02-2025\\Regex\\Extract Dates in dd mm yyyy Format\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyC#\\22-02-2025\\Regex\\Extract Dates in dd mm yyyy Format\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:47:49.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

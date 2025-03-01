@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\bin\Debug\net6.0\Extract Dates in dd mm yyyy Format.exe
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\bin\Debug\net6.0\Extract Dates in dd mm yyyy Format.deps.json
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\bin\Debug\net6.0\Extract Dates in dd mm yyyy Format.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\bin\Debug\net6.0\Extract Dates in dd mm yyyy Format.dll
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\bin\Debug\net6.0\Extract Dates in dd mm yyyy Format.pdb
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.dll
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\refint\Extract Dates in dd mm yyyy Format.dll
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.pdb
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\Extract Dates in dd mm yyyy Format.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Extract Dates in dd mm yyyy Format\obj\Debug\net6.0\ref\Extract Dates in dd mm yyyy Format.dll
