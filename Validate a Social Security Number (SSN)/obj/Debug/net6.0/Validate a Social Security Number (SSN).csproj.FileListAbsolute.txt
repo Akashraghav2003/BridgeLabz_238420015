@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\bin\Debug\net6.0\Validate a Social Security Number (SSN).exe
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\bin\Debug\net6.0\Validate a Social Security Number (SSN).deps.json
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\bin\Debug\net6.0\Validate a Social Security Number (SSN).runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\bin\Debug\net6.0\Validate a Social Security Number (SSN).dll
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\bin\Debug\net6.0\Validate a Social Security Number (SSN).pdb
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).dll
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\refint\Validate a Social Security Number (SSN).dll
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).pdb
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\Validate a Social Security Number (SSN).genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Validate a Social Security Number (SSN)\obj\Debug\net6.0\ref\Validate a Social Security Number (SSN).dll
