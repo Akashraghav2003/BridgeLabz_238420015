@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E72EA4-5178-48E3-BE0E-850067946046}|StringUtility.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\stringutility\\stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E72EA4-5178-48E3-BE0E-850067946046}|StringUtility.csproj|solutionrelative:stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C87B9F-3FAF-4676-A9C5-7D32784FE870}|..\\StringUtilityTest\\StringUtilityTest.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\stringutilitytest\\stringutilstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E72EA4-5178-48E3-BE0E-850067946046}|StringUtility.csproj|d:\\akash gla university\\capgemini problem\\feature22-02-2025\\stringutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E72EA4-5178-48E3-BE0E-850067946046}|StringUtility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringUtilsTest.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtilityTest\\StringUtilsTest.cs",
+              "RelativeDocumentMoniker": "..\\StringUtilityTest\\StringUtilsTest.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtilityTest\\StringUtilsTest.cs",
+              "RelativeToolTip": "..\\StringUtilityTest\\StringUtilsTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:22:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringUtils.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtility\\StringUtils.cs",
+              "RelativeDocumentMoniker": "StringUtils.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtility\\StringUtils.cs",
+              "RelativeToolTip": "StringUtils.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:08:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\akash gla university\\capgemini problem\\feature22-02-2025\\StringUtility\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:07:53.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
