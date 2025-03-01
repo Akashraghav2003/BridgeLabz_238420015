@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Censor Bad Words in a Sentence/1.0.0": {
+        "runtime": {
+          "Censor Bad Words in a Sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Censor Bad Words in a Sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
