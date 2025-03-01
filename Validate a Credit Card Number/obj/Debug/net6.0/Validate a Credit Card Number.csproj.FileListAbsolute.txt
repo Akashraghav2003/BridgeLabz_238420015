@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\bin\Debug\net6.0\Validate a Credit Card Number.exe
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\bin\Debug\net6.0\Validate a Credit Card Number.deps.json
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\bin\Debug\net6.0\Validate a Credit Card Number.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\bin\Debug\net6.0\Validate a Credit Card Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\bin\Debug\net6.0\Validate a Credit Card Number.pdb
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\refint\Validate a Credit Card Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.pdb
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\Validate a Credit Card Number.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Validate a Credit Card Number\obj\Debug\net6.0\ref\Validate a Credit Card Number.dll
