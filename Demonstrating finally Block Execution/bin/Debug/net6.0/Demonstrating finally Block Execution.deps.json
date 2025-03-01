@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Demonstrating finally Block Execution/1.0.0": {
+        "runtime": {
+          "Demonstrating finally Block Execution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demonstrating finally Block Execution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
