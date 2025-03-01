@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\bin\Debug\net6.0\Validate an IP Address.exe
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\bin\Debug\net6.0\Validate an IP Address.deps.json
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\bin\Debug\net6.0\Validate an IP Address.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\bin\Debug\net6.0\Validate an IP Address.dll
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\bin\Debug\net6.0\Validate an IP Address.pdb
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.dll
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\refint\Validate an IP Address.dll
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.pdb
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\Validate an IP Address.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Validate an IP Address\obj\Debug\net6.0\ref\Validate an IP Address.dll
