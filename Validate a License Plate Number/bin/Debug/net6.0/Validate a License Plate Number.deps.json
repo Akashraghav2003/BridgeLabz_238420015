@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Validate a License Plate Number/1.0.0": {
+        "runtime": {
+          "Validate a License Plate Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validate a License Plate Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\bin\Debug\net6.0\Validate a License Plate Number.exe
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\bin\Debug\net6.0\Validate a License Plate Number.deps.json
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\bin\Debug\net6.0\Validate a License Plate Number.runtimeconfig.json
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\bin\Debug\net6.0\Validate a License Plate Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\bin\Debug\net6.0\Validate a License Plate Number.pdb
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.AssemblyInfoInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.AssemblyInfo.cs
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.csproj.CoreCompileInputs.cache
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\refint\Validate a License Plate Number.dll
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.pdb
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\Validate a License Plate Number.genruntimeconfig.cache
+D:\MyC#\22-02-2025\Regex\Validate a License Plate Number\obj\Debug\net6.0\ref\Validate a License Plate Number.dll
