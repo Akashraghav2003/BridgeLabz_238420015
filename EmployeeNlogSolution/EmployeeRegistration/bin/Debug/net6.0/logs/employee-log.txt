@@ -1,0 +1,15 @@
+2025-03-02 16:56:07.9146 | Info | Now listening on: https://localhost:7008 | 
+2025-03-02 16:56:07.9764 | Info | Now listening on: http://localhost:5052 | 
+2025-03-02 16:56:08.0441 | Info | Application started. Press Ctrl+C to shut down. | 
+2025-03-02 16:56:08.0441 | Info | Hosting environment: Development | 
+2025-03-02 16:56:08.0597 | Info | Content root path: D:\akash gla university\capgemini problem\feature01-03-2025\EmployeeRegistration\ | 
+2025-03-02 16:56:09.4292 | Info | Request starting HTTP/2 GET https://localhost:7008/EmoployeeRegistration - - | 
+2025-03-02 16:56:09.8187 | Info | Executing endpoint 'EmployeeRegistration.Controllers.EmoployeeRegistrationController.Get (EmployeeRegistration)' | 
+2025-03-02 16:56:09.8368 | Info | Route matched with {action = "Get", controller = "EmoployeeRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller EmployeeRegistration.Controllers.EmoployeeRegistrationController (EmployeeRegistration). | 
+2025-03-02 16:56:09.8430 | Info | Fetching Employee data | 
+2025-03-02 16:56:09.8430 | Info | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. | 
+2025-03-02 16:56:09.8761 | Info | Executed action EmployeeRegistration.Controllers.EmoployeeRegistrationController.Get (EmployeeRegistration) in 30.1346ms | 
+2025-03-02 16:56:09.8761 | Info | Executed endpoint 'EmployeeRegistration.Controllers.EmoployeeRegistrationController.Get (EmployeeRegistration)' | 
+2025-03-02 16:56:09.8861 | Info | Request finished HTTP/2 GET https://localhost:7008/EmoployeeRegistration - - - 200 - application/json;+charset=utf-8 459.7065ms | 
+2025-03-02 16:56:10.6307 | Info | Request starting HTTP/2 GET https://localhost:7008/favicon.ico - - | 
+2025-03-02 16:56:10.6392 | Info | Request finished HTTP/2 GET https://localhost:7008/favicon.ico - - - 404 0 - 8.4702ms | 

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EmployeeRegistration.Controllers.EmoployeeRegistrationController",
+    "Method": "Get",
+    "RelativePath": "EmoployeeRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

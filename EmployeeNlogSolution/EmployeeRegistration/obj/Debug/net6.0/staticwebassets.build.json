@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6n535RyqaoCIoYNrLQMfRfuez3kV76909Qm8kR850ZU=",
+  "Source": "EmployeeRegistration",
+  "BasePath": "_content/EmployeeRegistration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
